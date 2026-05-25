@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c41c5e0e-5661-4564-8b67-839c975401f4",
+		"tenantId": "2ed5a947-68e8-47c7-ba73-1a6b5617b15e"
+	}
+}
